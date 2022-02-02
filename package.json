@@ -1,0 +1,30 @@
+{
+  "name": "chat-application-node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.15"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharjeelBaig0508/Chat-Application-Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharjeelBaig0508/Chat-Application-Node-JS/issues"
+  },
+  "homepage": "https://github.com/SharjeelBaig0508/Chat-Application-Node-JS#readme",
+  "description": ""
+}
